@@ -1,0 +1,16 @@
+{
+  "extends": ["tslint:recommended", "tslint-config-prettier"],
+  "defaultSeverity": "error",
+  "rules": {
+    "interface-name": true,
+    "variable-name": false,
+    "curly": false,
+    "ordered-imports": false,
+    "object-literal-sort-keys": false,
+    "no-console": false,
+    "no-empty": false
+  },
+  "linterOptions": {
+    "format": "stylish"
+  }
+}

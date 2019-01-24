@@ -1,6 +1,6 @@
 {
   "name": "lyricsfier",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "author": "Rafa Mel",
   "description": "Get lyrics from Genius for music files on a folder (recursively)",
   "scripts": {
